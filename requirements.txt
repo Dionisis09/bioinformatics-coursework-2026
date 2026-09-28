@@ -1,0 +1,9 @@
+# Python 3.13.14
+numpy
+biopython>=1.85
+requests>=2.32
+python-docx
+Pillow
+xmltramp2
+python-pptx
+black
